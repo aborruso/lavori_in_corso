@@ -1,0 +1,673 @@
+regione,provincia,comune_istat,stato,pro_com_t,numero_interventi
+ABRUZZO,AQ,Anversa degli Abruzzi,Chiuso,066004,1
+ABRUZZO,AQ,Barete,Chiuso,066008,6
+ABRUZZO,AQ,Cagnano Amiterno,Aperto,066013,2
+ABRUZZO,AQ,Cagnano Amiterno,Chiuso,066013,8
+ABRUZZO,AQ,Calascio,Aperto,066014,1
+ABRUZZO,AQ,Calascio,Chiuso,066014,3
+ABRUZZO,AQ,Campotosto,Aperto,066016,3
+ABRUZZO,AQ,Campotosto,Chiuso,066016,18
+ABRUZZO,AQ,Cansano,Chiuso,066018,2
+ABRUZZO,AQ,Capestrano,Chiuso,066019,1
+ABRUZZO,AQ,Capitignano,Aperto,066021,10
+ABRUZZO,AQ,Capitignano,Chiuso,066021,67
+ABRUZZO,AQ,Castel del Monte,Chiuso,066026,1
+ABRUZZO,AQ,Castel di Ieri,Chiuso,066027,1
+ABRUZZO,AQ,Castelvecchio Subequo,Chiuso,066031,1
+ABRUZZO,AQ,Civitella Roveto,Chiuso,066036,1
+ABRUZZO,AQ,Corfinio,Aperto,066041,1
+ABRUZZO,AQ,Corfinio,Chiuso,066041,4
+ABRUZZO,AQ,Gagliano Aterno,Chiuso,066045,2
+ABRUZZO,AQ,Introdacqua,Chiuso,066048,5
+ABRUZZO,AQ,"L'Aquila",Aperto,066049,2
+ABRUZZO,AQ,"L'Aquila",Chiuso,066049,3
+ABRUZZO,AQ,Molina Aterno,Chiuso,066055,2
+ABRUZZO,AQ,Montereale,Aperto,066056,17
+ABRUZZO,AQ,Montereale,Chiuso,066056,144
+ABRUZZO,AQ,Montereale,Rigettato,066056,1
+ABRUZZO,AQ,Navelli,Aperto,066058,1
+ABRUZZO,AQ,Pacentro,Chiuso,066066,4
+ABRUZZO,AQ,Pizzoli,Chiuso,066072,19
+ABRUZZO,AQ,Pratola Peligna,Aperto,066075,1
+ABRUZZO,AQ,Pratola Peligna,Chiuso,066075,1
+ABRUZZO,AQ,Raiano,Chiuso,066077,2
+ABRUZZO,AQ,San Pio delle Camere,Chiuso,066088,1
+ABRUZZO,AQ,Scoppito,Chiuso,066095,3
+ABRUZZO,AQ,Sulmona,Chiuso,066098,1
+ABRUZZO,AQ,Tornimparte,Chiuso,066101,1
+ABRUZZO,AQ,"Villa Sant'Angelo",Chiuso,066105,1
+ABRUZZO,PE,Abbateggio,Chiuso,068001,1
+ABRUZZO,PE,Alanno,Chiuso,068002,4
+ABRUZZO,PE,Bolognano,Chiuso,068003,1
+ABRUZZO,PE,Brittoli,Chiuso,068004,1
+ABRUZZO,PE,Carpineto della Nora,Chiuso,068008,1
+ABRUZZO,PE,Castiglione a Casauria,Aperto,068009,1
+ABRUZZO,PE,Castiglione a Casauria,Chiuso,068009,8
+ABRUZZO,PE,Catignano,Aperto,068010,3
+ABRUZZO,PE,Catignano,Chiuso,068010,2
+ABRUZZO,PE,"Città Sant'Angelo",Chiuso,068012,1
+ABRUZZO,PE,Civitaquana,Aperto,068013,1
+ABRUZZO,PE,Civitaquana,Chiuso,068013,2
+ABRUZZO,PE,Civitella Casanova,Chiuso,068014,2
+ABRUZZO,PE,Collecorvino,Chiuso,068015,3
+ABRUZZO,PE,Corvara,Chiuso,068016,1
+ABRUZZO,PE,Cugnoli,Chiuso,068017,2
+ABRUZZO,PE,Elice,Chiuso,068018,3
+ABRUZZO,PE,Farindola,Aperto,068019,4
+ABRUZZO,PE,Farindola,Chiuso,068019,15
+ABRUZZO,PE,Loreto Aprutino,Chiuso,068021,1
+ABRUZZO,PE,Montesilvano,Chiuso,068024,1
+ABRUZZO,PE,Penne,Aperto,068027,1
+ABRUZZO,PE,Penne,Chiuso,068027,10
+ABRUZZO,PE,Pescosansonesco,Chiuso,068029,2
+ABRUZZO,PE,Pianella,Chiuso,068030,1
+ABRUZZO,PE,Picciano,Chiuso,068031,6
+ABRUZZO,PE,Pietranico,Chiuso,068032,2
+ABRUZZO,PE,Pietranico,Rigettato,068032,1
+ABRUZZO,PE,San Valentino in Abruzzo Citeriore,Chiuso,068038,4
+ABRUZZO,PE,Tocco da Casauria,Chiuso,068042,1
+ABRUZZO,PE,"Torre de' Passeri",Chiuso,068043,3
+ABRUZZO,PE,Villa Celiera,Chiuso,068046,1
+ABRUZZO,TE,Ancarano,Aperto,067002,1
+ABRUZZO,TE,Ancarano,Chiuso,067002,7
+ABRUZZO,TE,Arsita,Aperto,067003,1
+ABRUZZO,TE,Arsita,Chiuso,067003,10
+ABRUZZO,TE,Atri,Aperto,067004,2
+ABRUZZO,TE,Atri,Chiuso,067004,4
+ABRUZZO,TE,Basciano,Aperto,067005,1
+ABRUZZO,TE,Basciano,Chiuso,067005,36
+ABRUZZO,TE,Bellante,Aperto,067006,3
+ABRUZZO,TE,Bellante,Chiuso,067006,10
+ABRUZZO,TE,Bisenti,Aperto,067007,2
+ABRUZZO,TE,Bisenti,Chiuso,067007,28
+ABRUZZO,TE,Campli,Aperto,067008,12
+ABRUZZO,TE,Campli,Chiuso,067008,106
+ABRUZZO,TE,Campli,Rigettato,067008,1
+ABRUZZO,TE,Canzano,Aperto,067009,1
+ABRUZZO,TE,Canzano,Chiuso,067009,7
+ABRUZZO,TE,Castel Castagna,Aperto,067010,2
+ABRUZZO,TE,Castel Castagna,Chiuso,067010,35
+ABRUZZO,TE,Castellalto,Aperto,067011,2
+ABRUZZO,TE,Castellalto,Chiuso,067011,13
+ABRUZZO,TE,Castelli,Aperto,067012,3
+ABRUZZO,TE,Castelli,Chiuso,067012,42
+ABRUZZO,TE,Castiglione Messer Raimondo,Aperto,067013,1
+ABRUZZO,TE,Castiglione Messer Raimondo,Chiuso,067013,9
+ABRUZZO,TE,Castilenti,Aperto,067014,3
+ABRUZZO,TE,Castilenti,Chiuso,067014,2
+ABRUZZO,TE,Cellino Attanasio,Chiuso,067015,21
+ABRUZZO,TE,Cermignano,Aperto,067016,1
+ABRUZZO,TE,Cermignano,Chiuso,067016,14
+ABRUZZO,TE,Civitella del Tronto,Aperto,067017,5
+ABRUZZO,TE,Civitella del Tronto,Chiuso,067017,66
+ABRUZZO,TE,Colledara,Aperto,067018,6
+ABRUZZO,TE,Colledara,Chiuso,067018,80
+ABRUZZO,TE,Colonnella,Chiuso,067019,1
+ABRUZZO,TE,Controguerra,Aperto,067020,1
+ABRUZZO,TE,Controguerra,Chiuso,067020,1
+ABRUZZO,TE,Corropoli,Chiuso,067021,10
+ABRUZZO,TE,Cortino,Aperto,067022,5
+ABRUZZO,TE,Cortino,Chiuso,067022,24
+ABRUZZO,TE,Crognaleto,Aperto,067023,7
+ABRUZZO,TE,Crognaleto,Chiuso,067023,51
+ABRUZZO,TE,Fano Adriano,Aperto,067024,2
+ABRUZZO,TE,Fano Adriano,Chiuso,067024,3
+ABRUZZO,TE,"Isola del Gran Sasso d'Italia",Aperto,067026,7
+ABRUZZO,TE,"Isola del Gran Sasso d'Italia",Chiuso,067026,73
+ABRUZZO,TE,Martinsicuro,Chiuso,067047,1
+ABRUZZO,TE,Montefino,Aperto,067027,2
+ABRUZZO,TE,Montefino,Chiuso,067027,7
+ABRUZZO,TE,Montorio al Vomano,Aperto,067028,17
+ABRUZZO,TE,Montorio al Vomano,Chiuso,067028,179
+ABRUZZO,TE,"Morro d'Oro",Chiuso,067029,1
+ABRUZZO,TE,"Mosciano Sant'Angelo",Aperto,067030,2
+ABRUZZO,TE,"Mosciano Sant'Angelo",Chiuso,067030,1
+ABRUZZO,TE,Nereto,Chiuso,067031,2
+ABRUZZO,TE,Notaresco,Aperto,067032,1
+ABRUZZO,TE,Notaresco,Chiuso,067032,4
+ABRUZZO,TE,"Penna Sant'Andrea",Aperto,067033,4
+ABRUZZO,TE,"Penna Sant'Andrea",Chiuso,067033,17
+ABRUZZO,TE,Pietracamela,Aperto,067034,2
+ABRUZZO,TE,Pietracamela,Chiuso,067034,1
+ABRUZZO,TE,Pineto,Chiuso,067035,1
+ABRUZZO,TE,Rocca Santa Maria,Aperto,067036,3
+ABRUZZO,TE,Rocca Santa Maria,Chiuso,067036,30
+ABRUZZO,TE,Roseto degli Abruzzi,Aperto,067037,2
+ABRUZZO,TE,Roseto degli Abruzzi,Chiuso,067037,2
+ABRUZZO,TE,"Sant'Egidio alla Vibrata",Chiuso,067038,6
+ABRUZZO,TE,"Sant'Omero",Chiuso,067039,2
+ABRUZZO,TE,Teramo,Aperto,067041,26
+ABRUZZO,TE,Teramo,Chiuso,067041,239
+ABRUZZO,TE,Torano Nuovo,Chiuso,067042,4
+ABRUZZO,TE,Torricella Sicura,Aperto,067043,5
+ABRUZZO,TE,Torricella Sicura,Chiuso,067043,67
+ABRUZZO,TE,Tossicia,Aperto,067045,7
+ABRUZZO,TE,Tossicia,Chiuso,067045,40
+ABRUZZO,TE,Valle Castellana,Aperto,067046,4
+ABRUZZO,TE,Valle Castellana,Chiuso,067046,57
+LAZIO,RI,Accumoli,Aperto,057001,15
+LAZIO,RI,Accumoli,Chiuso,057001,26
+LAZIO,RI,Amatrice,Aperto,057002,57
+LAZIO,RI,Amatrice,Chiuso,057002,192
+LAZIO,RI,Antrodoco,Aperto,057003,8
+LAZIO,RI,Antrodoco,Chiuso,057003,74
+LAZIO,RI,Belmonte in Sabina,Aperto,057005,1
+LAZIO,RI,Borbona,Aperto,057006,8
+LAZIO,RI,Borbona,Archiviato,057006,1
+LAZIO,RI,Borbona,Chiuso,057006,38
+LAZIO,RI,Borgo Velino,Aperto,057008,4
+LAZIO,RI,Borgo Velino,Chiuso,057008,10
+LAZIO,RI,Cantalice,Aperto,057009,4
+LAZIO,RI,Cantalice,Chiuso,057009,14
+LAZIO,RI,Casaprota,Chiuso,057011,1
+LAZIO,RI,Casperia,Chiuso,057012,1
+LAZIO,RI,"Castel Sant'Angelo",Aperto,057015,6
+LAZIO,RI,"Castel Sant'Angelo",Chiuso,057015,17
+LAZIO,RI,Castelnuovo di Farfa,Aperto,057014,1
+LAZIO,RI,Cittaducale,Aperto,057016,3
+LAZIO,RI,Cittaducale,Chiuso,057016,42
+LAZIO,RI,Cittareale,Aperto,057017,8
+LAZIO,RI,Cittareale,Chiuso,057017,53
+LAZIO,RI,Collevecchio,Chiuso,057021,2
+LAZIO,RI,Concerviano,Aperto,057023,1
+LAZIO,RI,Concerviano,Chiuso,057023,2
+LAZIO,RI,Contigliano,Aperto,057025,2
+LAZIO,RI,Contigliano,Chiuso,057025,3
+LAZIO,RI,Cottanello,Aperto,057026,1
+LAZIO,RI,Cottanello,Chiuso,057026,1
+LAZIO,RI,Fiamignano,Aperto,057028,2
+LAZIO,RI,Fiamignano,Chiuso,057028,8
+LAZIO,RI,Forano,Chiuso,057029,1
+LAZIO,RI,Greccio,Chiuso,057031,3
+LAZIO,RI,Leonessa,Aperto,057033,41
+LAZIO,RI,Leonessa,Chiuso,057033,185
+LAZIO,RI,Magliano Sabina,Aperto,057035,1
+LAZIO,RI,Magliano Sabina,Chiuso,057035,3
+LAZIO,RI,Marcetelli,Aperto,057036,1
+LAZIO,RI,Marcetelli,Chiuso,057036,7
+LAZIO,RI,Micigliano,Chiuso,057037,4
+LAZIO,RI,Mompeo,Chiuso,057038,1
+LAZIO,RI,Monte San Giovanni in Sabina,Chiuso,057043,2
+LAZIO,RI,Pescorocchiano,Chiuso,057049,4
+LAZIO,RI,Petrella Salto,Chiuso,057050,2
+LAZIO,RI,Poggio Bustone,Aperto,057051,2
+LAZIO,RI,Poggio Bustone,Chiuso,057051,9
+LAZIO,RI,Poggio Mirteto,Chiuso,057053,1
+LAZIO,RI,Poggio Moiano,Aperto,057054,1
+LAZIO,RI,Poggio Moiano,Chiuso,057054,2
+LAZIO,RI,Poggio Nativo,Chiuso,057055,1
+LAZIO,RI,Posta,Aperto,057057,13
+LAZIO,RI,Posta,Chiuso,057057,50
+LAZIO,RI,Rieti,Aperto,057059,19
+LAZIO,RI,Rieti,Chiuso,057059,85
+LAZIO,RI,Rivodutri,Aperto,057060,1
+LAZIO,RI,Rivodutri,Chiuso,057060,3
+LAZIO,RI,Rocca Sinibalda,Chiuso,057062,1
+LAZIO,RI,Roccantica,Chiuso,057061,1
+LAZIO,RI,Salisano,Aperto,057063,1
+LAZIO,RI,Salisano,Chiuso,057063,1
+LAZIO,RI,Selci,Chiuso,057065,1
+LAZIO,RI,Tarano,Chiuso,057067,7
+LAZIO,RI,Torri in Sabina,Chiuso,057070,2
+LAZIO,RI,Torricella in Sabina,Chiuso,057069,1
+LAZIO,RM,Filacciano,Chiuso,058037,1
+LAZIO,VT,Orte,Chiuso,056042,1
+MARCHE,AN,Ancona,Aperto,042002,2
+MARCHE,AN,Ancona,Chiuso,042002,4
+MARCHE,AN,Arcevia,Chiuso,042003,4
+MARCHE,AN,Belvedere Ostrense,Chiuso,042005,2
+MARCHE,AN,Castelbellino,Aperto,042008,1
+MARCHE,AN,Castelbellino,Chiuso,042008,2
+MARCHE,AN,Castelfidardo,Chiuso,042010,1
+MARCHE,AN,Castelleone di Suasa,Chiuso,042011,3
+MARCHE,AN,Castelplanio,Aperto,042012,1
+MARCHE,AN,Castelplanio,Archiviato,042012,1
+MARCHE,AN,Castelplanio,Chiuso,042012,6
+MARCHE,AN,"Cerreto d'Esi",Aperto,042013,2
+MARCHE,AN,"Cerreto d'Esi",Archiviato,042013,2
+MARCHE,AN,"Cerreto d'Esi",Chiuso,042013,31
+MARCHE,AN,Cupramontana,Aperto,042016,3
+MARCHE,AN,Cupramontana,Chiuso,042016,14
+MARCHE,AN,Fabriano,Aperto,042017,17
+MARCHE,AN,Fabriano,Archiviato,042017,3
+MARCHE,AN,Fabriano,Chiuso,042017,77
+MARCHE,AN,Falconara Marittima,Chiuso,042018,1
+MARCHE,AN,Filottrano,Aperto,042019,1
+MARCHE,AN,Filottrano,Chiuso,042019,6
+MARCHE,AN,Genga,Aperto,042020,3
+MARCHE,AN,Genga,Archiviato,042020,3
+MARCHE,AN,Genga,Chiuso,042020,16
+MARCHE,AN,Jesi,Chiuso,042021,3
+MARCHE,AN,Loreto,Chiuso,042022,1
+MARCHE,AN,Maiolati Spontini,Chiuso,042023,7
+MARCHE,AN,Mergo,Chiuso,042024,2
+MARCHE,AN,Monte Roberto,Aperto,042029,1
+MARCHE,AN,Monte Roberto,Chiuso,042029,4
+MARCHE,AN,Monte San Vito,Chiuso,042030,3
+MARCHE,AN,"Morro d'Alba",Aperto,042031,1
+MARCHE,AN,Offagna,Chiuso,042033,1
+MARCHE,AN,Osimo,Aperto,042034,1
+MARCHE,AN,Ostra,Aperto,042035,1
+MARCHE,AN,Ostra,Chiuso,042035,1
+MARCHE,AN,Poggio San Marcello,Chiuso,042037,2
+MARCHE,AN,Polverigi,Chiuso,042038,1
+MARCHE,AN,Rosora,Chiuso,042040,2
+MARCHE,AN,San Marcello,Archiviato,042041,1
+MARCHE,AN,San Marcello,Chiuso,042041,1
+MARCHE,AN,San Paolo di Jesi,Chiuso,042042,3
+MARCHE,AN,Santa Maria Nuova,Aperto,042043,1
+MARCHE,AN,Santa Maria Nuova,Archiviato,042043,1
+MARCHE,AN,Santa Maria Nuova,Chiuso,042043,1
+MARCHE,AN,Sassoferrato,Aperto,042044,3
+MARCHE,AN,Sassoferrato,Archiviato,042044,1
+MARCHE,AN,Sassoferrato,Chiuso,042044,25
+MARCHE,AN,Serra San Quirico,Aperto,042047,1
+MARCHE,AN,Serra San Quirico,Archiviato,042047,1
+MARCHE,AN,Serra San Quirico,Chiuso,042047,10
+MARCHE,AN,"Serra de' Conti",Chiuso,042046,3
+MARCHE,AN,Sirolo,Aperto,042048,1
+MARCHE,AN,Staffolo,Aperto,042049,4
+MARCHE,AN,Staffolo,Chiuso,042049,8
+MARCHE,AP,Acquasanta Terme,Aperto,044001,89
+MARCHE,AP,Acquasanta Terme,Archiviato,044001,8
+MARCHE,AP,Acquasanta Terme,Chiuso,044001,175
+MARCHE,AP,Acquaviva Picena,Aperto,044002,2
+MARCHE,AP,Acquaviva Picena,Chiuso,044002,3
+MARCHE,AP,Appignano del Tronto,Aperto,044005,17
+MARCHE,AP,Appignano del Tronto,Archiviato,044005,1
+MARCHE,AP,Appignano del Tronto,Chiuso,044005,31
+MARCHE,AP,Arquata del Tronto,Aperto,044006,51
+MARCHE,AP,Arquata del Tronto,Chiuso,044006,62
+MARCHE,AP,Ascoli Piceno,Aperto,044007,131
+MARCHE,AP,Ascoli Piceno,Archiviato,044007,16
+MARCHE,AP,Ascoli Piceno,Chiuso,044007,301
+MARCHE,AP,Carassai,Aperto,044010,2
+MARCHE,AP,Carassai,Chiuso,044010,13
+MARCHE,AP,Castel di Lama,Aperto,044011,26
+MARCHE,AP,Castel di Lama,Archiviato,044011,2
+MARCHE,AP,Castel di Lama,Chiuso,044011,73
+MARCHE,AP,Castel di Lama,Rigettato,044011,1
+MARCHE,AP,Castignano,Aperto,044012,18
+MARCHE,AP,Castignano,Archiviato,044012,1
+MARCHE,AP,Castignano,Chiuso,044012,36
+MARCHE,AP,Castorano,Aperto,044013,3
+MARCHE,AP,Castorano,Chiuso,044013,18
+MARCHE,AP,Colli del Tronto,Aperto,044014,12
+MARCHE,AP,Colli del Tronto,Chiuso,044014,10
+MARCHE,AP,Comunanza,Aperto,044015,25
+MARCHE,AP,Comunanza,Archiviato,044015,1
+MARCHE,AP,Comunanza,Chiuso,044015,51
+MARCHE,AP,Cossignano,Aperto,044016,5
+MARCHE,AP,Cossignano,Chiuso,044016,28
+MARCHE,AP,Cupra Marittima,Chiuso,044017,1
+MARCHE,AP,Folignano,Aperto,044020,13
+MARCHE,AP,Folignano,Archiviato,044020,1
+MARCHE,AP,Folignano,Chiuso,044020,44
+MARCHE,AP,Force,Aperto,044021,18
+MARCHE,AP,Force,Archiviato,044021,2
+MARCHE,AP,Force,Chiuso,044021,44
+MARCHE,AP,Grottammare,Aperto,044023,3
+MARCHE,AP,Grottammare,Chiuso,044023,1
+MARCHE,AP,Maltignano,Aperto,044027,8
+MARCHE,AP,Maltignano,Archiviato,044027,1
+MARCHE,AP,Maltignano,Chiuso,044027,21
+MARCHE,AP,Massignano,Chiuso,044029,1
+MARCHE,AP,Monsampolo del Tronto,Aperto,044031,4
+MARCHE,AP,Monsampolo del Tronto,Chiuso,044031,4
+MARCHE,AP,Montalto delle Marche,Aperto,044032,19
+MARCHE,AP,Montalto delle Marche,Archiviato,044032,1
+MARCHE,AP,Montalto delle Marche,Chiuso,044032,21
+MARCHE,AP,Montedinove,Aperto,044034,10
+MARCHE,AP,Montedinove,Archiviato,044034,1
+MARCHE,AP,Montedinove,Chiuso,044034,14
+MARCHE,AP,"Montefiore dell'Aso",Aperto,044036,4
+MARCHE,AP,"Montefiore dell'Aso",Chiuso,044036,3
+MARCHE,AP,Montegallo,Aperto,044038,27
+MARCHE,AP,Montegallo,Archiviato,044038,2
+MARCHE,AP,Montegallo,Chiuso,044038,65
+MARCHE,AP,Montemonaco,Aperto,044044,27
+MARCHE,AP,Montemonaco,Archiviato,044044,2
+MARCHE,AP,Montemonaco,Chiuso,044044,67
+MARCHE,AP,Monteprandone,Chiuso,044045,5
+MARCHE,AP,Offida,Aperto,044054,19
+MARCHE,AP,Offida,Chiuso,044054,48
+MARCHE,AP,Palmiano,Aperto,044056,1
+MARCHE,AP,Palmiano,Archiviato,044056,2
+MARCHE,AP,Palmiano,Chiuso,044056,9
+MARCHE,AP,Ripatransone,Aperto,044063,3
+MARCHE,AP,Ripatransone,Chiuso,044063,2
+MARCHE,AP,Roccafluvione,Aperto,044064,16
+MARCHE,AP,Roccafluvione,Archiviato,044064,2
+MARCHE,AP,Roccafluvione,Chiuso,044064,51
+MARCHE,AP,Rotella,Aperto,044065,11
+MARCHE,AP,Rotella,Chiuso,044065,35
+MARCHE,AP,San Benedetto del Tronto,Archiviato,044066,1
+MARCHE,AP,Spinetoli,Aperto,044071,2
+MARCHE,AP,Spinetoli,Chiuso,044071,5
+MARCHE,AP,Venarotta,Aperto,044073,14
+MARCHE,AP,Venarotta,Archiviato,044073,2
+MARCHE,AP,Venarotta,Chiuso,044073,40
+MARCHE,FM,Amandola,Aperto,109002,47
+MARCHE,FM,Amandola,Archiviato,109002,5
+MARCHE,FM,Amandola,Chiuso,109002,83
+MARCHE,FM,Amandola,Rigettato,109002,1
+MARCHE,FM,Belmonte Piceno,Aperto,109003,4
+MARCHE,FM,Belmonte Piceno,Archiviato,109003,1
+MARCHE,FM,Belmonte Piceno,Chiuso,109003,7
+MARCHE,FM,Campofilone,Aperto,109004,2
+MARCHE,FM,Campofilone,Chiuso,109004,1
+MARCHE,FM,Falerone,Aperto,109005,14
+MARCHE,FM,Falerone,Archiviato,109005,2
+MARCHE,FM,Falerone,Chiuso,109005,62
+MARCHE,FM,Fermo,Aperto,109006,40
+MARCHE,FM,Fermo,Chiuso,109006,45
+MARCHE,FM,"Francavilla d'Ete",Chiuso,109007,4
+MARCHE,FM,Grottazzolina,Aperto,109008,3
+MARCHE,FM,Grottazzolina,Chiuso,109008,3
+MARCHE,FM,Lapedona,Chiuso,109009,1
+MARCHE,FM,Magliano di Tenna,Aperto,109010,3
+MARCHE,FM,Magliano di Tenna,Chiuso,109010,1
+MARCHE,FM,Massa Fermana,Aperto,109011,2
+MARCHE,FM,Massa Fermana,Chiuso,109011,5
+MARCHE,FM,Monsampietro Morico,Aperto,109012,1
+MARCHE,FM,Monsampietro Morico,Chiuso,109012,5
+MARCHE,FM,Montappone,Aperto,109013,8
+MARCHE,FM,Montappone,Chiuso,109013,12
+MARCHE,FM,Monte Giberto,Aperto,109016,2
+MARCHE,FM,Monte Giberto,Chiuso,109016,1
+MARCHE,FM,Monte Rinaldo,Aperto,109021,5
+MARCHE,FM,Monte Rinaldo,Chiuso,109021,9
+MARCHE,FM,Monte San Pietrangeli,Aperto,109023,2
+MARCHE,FM,Monte San Pietrangeli,Chiuso,109023,6
+MARCHE,FM,Monte Urano,Aperto,109024,1
+MARCHE,FM,Monte Urano,Archiviato,109024,1
+MARCHE,FM,Monte Urano,Chiuso,109024,6
+MARCHE,FM,Monte Vidon Combatte,Aperto,109025,1
+MARCHE,FM,Monte Vidon Combatte,Chiuso,109025,2
+MARCHE,FM,Monte Vidon Corrado,Aperto,109026,1
+MARCHE,FM,Monte Vidon Corrado,Chiuso,109026,2
+MARCHE,FM,Montefalcone Appennino,Aperto,109014,7
+MARCHE,FM,Montefalcone Appennino,Archiviato,109014,1
+MARCHE,FM,Montefalcone Appennino,Chiuso,109014,9
+MARCHE,FM,Montefortino,Aperto,109015,28
+MARCHE,FM,Montefortino,Archiviato,109015,1
+MARCHE,FM,Montefortino,Chiuso,109015,68
+MARCHE,FM,Montegiorgio,Aperto,109017,13
+MARCHE,FM,Montegiorgio,Archiviato,109017,1
+MARCHE,FM,Montegiorgio,Chiuso,109017,42
+MARCHE,FM,Montegranaro,Aperto,109018,7
+MARCHE,FM,Montegranaro,Chiuso,109018,7
+MARCHE,FM,Monteleone di Fermo,Aperto,109019,1
+MARCHE,FM,Monteleone di Fermo,Chiuso,109019,6
+MARCHE,FM,Montelparo,Aperto,109020,5
+MARCHE,FM,Montelparo,Chiuso,109020,14
+MARCHE,FM,Monterubbiano,Chiuso,109022,1
+MARCHE,FM,Montottone,Aperto,109027,3
+MARCHE,FM,Montottone,Chiuso,109027,6
+MARCHE,FM,Ortezzano,Aperto,109029,2
+MARCHE,FM,Ortezzano,Chiuso,109029,10
+MARCHE,FM,Pedaso,Chiuso,109030,1
+MARCHE,FM,Petritoli,Aperto,109031,1
+MARCHE,FM,Petritoli,Chiuso,109031,5
+MARCHE,FM,Porto San Giorgio,Chiuso,109033,1
+MARCHE,FM,"Porto Sant'Elpidio",Aperto,109034,1
+MARCHE,FM,"Porto Sant'Elpidio",Archiviato,109034,2
+MARCHE,FM,"Porto Sant'Elpidio",Chiuso,109034,2
+MARCHE,FM,Rapagnano,Aperto,109035,3
+MARCHE,FM,Rapagnano,Archiviato,109035,1
+MARCHE,FM,"Sant'Elpidio a Mare",Aperto,109037,5
+MARCHE,FM,"Sant'Elpidio a Mare",Chiuso,109037,9
+MARCHE,FM,Santa Vittoria in Matenano,Aperto,109036,4
+MARCHE,FM,Santa Vittoria in Matenano,Chiuso,109036,17
+MARCHE,FM,Servigliano,Aperto,109038,5
+MARCHE,FM,Servigliano,Archiviato,109038,1
+MARCHE,FM,Servigliano,Chiuso,109038,20
+MARCHE,FM,Smerillo,Aperto,109039,4
+MARCHE,FM,Smerillo,Archiviato,109039,1
+MARCHE,FM,Smerillo,Chiuso,109039,12
+MARCHE,FM,Torre San Patrizio,Aperto,109040,4
+MARCHE,FM,Torre San Patrizio,Chiuso,109040,1
+MARCHE,MC,Apiro,Aperto,043002,3
+MARCHE,MC,Apiro,Archiviato,043002,2
+MARCHE,MC,Apiro,Chiuso,043002,57
+MARCHE,MC,Appignano,Aperto,043003,7
+MARCHE,MC,Appignano,Chiuso,043003,16
+MARCHE,MC,Belforte del Chienti,Aperto,043004,4
+MARCHE,MC,Belforte del Chienti,Archiviato,043004,1
+MARCHE,MC,Belforte del Chienti,Chiuso,043004,51
+MARCHE,MC,Bolognola,Aperto,043005,5
+MARCHE,MC,Bolognola,Chiuso,043005,15
+MARCHE,MC,Caldarola,Aperto,043006,11
+MARCHE,MC,Caldarola,Archiviato,043006,4
+MARCHE,MC,Caldarola,Chiuso,043006,79
+MARCHE,MC,Camerino,Aperto,043007,52
+MARCHE,MC,Camerino,Archiviato,043007,14
+MARCHE,MC,Camerino,Chiuso,043007,255
+MARCHE,MC,Camporotondo di Fiastrone,Aperto,043008,4
+MARCHE,MC,Camporotondo di Fiastrone,Chiuso,043008,20
+MARCHE,MC,Castelraimondo,Aperto,043009,10
+MARCHE,MC,Castelraimondo,Archiviato,043009,2
+MARCHE,MC,Castelraimondo,Chiuso,043009,101
+MARCHE,MC,Castelsantangelo sul Nera,Aperto,043010,3
+MARCHE,MC,Castelsantangelo sul Nera,Archiviato,043010,2
+MARCHE,MC,Castelsantangelo sul Nera,Chiuso,043010,10
+MARCHE,MC,Cessapalombo,Aperto,043011,4
+MARCHE,MC,Cessapalombo,Archiviato,043011,3
+MARCHE,MC,Cessapalombo,Chiuso,043011,40
+MARCHE,MC,Cingoli,Aperto,043012,20
+MARCHE,MC,Cingoli,Archiviato,043012,6
+MARCHE,MC,Cingoli,Chiuso,043012,120
+MARCHE,MC,Civitanova Marche,Aperto,043013,1
+MARCHE,MC,Civitanova Marche,Chiuso,043013,1
+MARCHE,MC,Colmurano,Aperto,043014,4
+MARCHE,MC,Colmurano,Archiviato,043014,1
+MARCHE,MC,Colmurano,Chiuso,043014,24
+MARCHE,MC,Corridonia,Aperto,043015,12
+MARCHE,MC,Corridonia,Archiviato,043015,3
+MARCHE,MC,Corridonia,Chiuso,043015,71
+MARCHE,MC,Esanatoglia,Aperto,043016,2
+MARCHE,MC,Esanatoglia,Archiviato,043016,3
+MARCHE,MC,Esanatoglia,Chiuso,043016,72
+MARCHE,MC,Fiastra,Aperto,043017,9
+MARCHE,MC,Fiastra,Archiviato,043017,9
+MARCHE,MC,Fiastra,Chiuso,043017,141
+MARCHE,MC,Fiuminata,Aperto,043019,3
+MARCHE,MC,Fiuminata,Archiviato,043019,1
+MARCHE,MC,Fiuminata,Chiuso,043019,30
+MARCHE,MC,Gagliole,Aperto,043020,3
+MARCHE,MC,Gagliole,Archiviato,043020,1
+MARCHE,MC,Gagliole,Chiuso,043020,31
+MARCHE,MC,Gualdo,Aperto,043021,8
+MARCHE,MC,Gualdo,Chiuso,043021,51
+MARCHE,MC,Loro Piceno,Aperto,043022,5
+MARCHE,MC,Loro Piceno,Archiviato,043022,1
+MARCHE,MC,Loro Piceno,Chiuso,043022,45
+MARCHE,MC,Macerata,Aperto,043023,17
+MARCHE,MC,Macerata,Archiviato,043023,4
+MARCHE,MC,Macerata,Chiuso,043023,132
+MARCHE,MC,Matelica,Aperto,043024,18
+MARCHE,MC,Matelica,Archiviato,043024,5
+MARCHE,MC,Matelica,Chiuso,043024,114
+MARCHE,MC,Mogliano,Aperto,043025,7
+MARCHE,MC,Mogliano,Chiuso,043025,53
+MARCHE,MC,Monte Cavallo,Aperto,043027,1
+MARCHE,MC,Monte Cavallo,Chiuso,043027,21
+MARCHE,MC,Monte San Giusto,Aperto,043031,1
+MARCHE,MC,Monte San Giusto,Chiuso,043031,7
+MARCHE,MC,Monte San Martino,Aperto,043032,5
+MARCHE,MC,Monte San Martino,Chiuso,043032,19
+MARCHE,MC,Montecassiano,Aperto,043026,3
+MARCHE,MC,Montecassiano,Chiuso,043026,10
+MARCHE,MC,Montecosaro,Aperto,043028,3
+MARCHE,MC,Montefano,Aperto,043029,1
+MARCHE,MC,Montefano,Chiuso,043029,14
+MARCHE,MC,Montelupone,Aperto,043030,2
+MARCHE,MC,Montelupone,Archiviato,043030,1
+MARCHE,MC,Montelupone,Chiuso,043030,15
+MARCHE,MC,Morrovalle,Aperto,043033,2
+MARCHE,MC,Morrovalle,Archiviato,043033,1
+MARCHE,MC,Morrovalle,Chiuso,043033,10
+MARCHE,MC,Muccia,Aperto,043034,8
+MARCHE,MC,Muccia,Archiviato,043034,2
+MARCHE,MC,Muccia,Chiuso,043034,51
+MARCHE,MC,Penna San Giovanni,Aperto,043035,4
+MARCHE,MC,Penna San Giovanni,Archiviato,043035,2
+MARCHE,MC,Penna San Giovanni,Chiuso,043035,41
+MARCHE,MC,Petriolo,Aperto,043036,3
+MARCHE,MC,Petriolo,Archiviato,043036,1
+MARCHE,MC,Petriolo,Chiuso,043036,29
+MARCHE,MC,Pieve Torina,Aperto,043038,18
+MARCHE,MC,Pieve Torina,Archiviato,043038,8
+MARCHE,MC,Pieve Torina,Chiuso,043038,102
+MARCHE,MC,Pioraco,Aperto,043039,6
+MARCHE,MC,Pioraco,Chiuso,043039,83
+MARCHE,MC,Poggio San Vicino,Aperto,043040,1
+MARCHE,MC,Poggio San Vicino,Chiuso,043040,4
+MARCHE,MC,Pollenza,Aperto,043041,9
+MARCHE,MC,Pollenza,Chiuso,043041,53
+MARCHE,MC,Porto Recanati,Chiuso,043042,1
+MARCHE,MC,Potenza Picena,Chiuso,043043,8
+MARCHE,MC,Recanati,Chiuso,043044,15
+MARCHE,MC,Ripe San Ginesio,Aperto,043045,3
+MARCHE,MC,Ripe San Ginesio,Archiviato,043045,3
+MARCHE,MC,Ripe San Ginesio,Chiuso,043045,25
+MARCHE,MC,San Ginesio,Aperto,043046,31
+MARCHE,MC,San Ginesio,Archiviato,043046,7
+MARCHE,MC,San Ginesio,Chiuso,043046,232
+MARCHE,MC,San Severino Marche,Aperto,043047,39
+MARCHE,MC,San Severino Marche,Archiviato,043047,12
+MARCHE,MC,San Severino Marche,Chiuso,043047,398
+MARCHE,MC,"Sant'Angelo in Pontano",Aperto,043048,7
+MARCHE,MC,"Sant'Angelo in Pontano",Archiviato,043048,3
+MARCHE,MC,"Sant'Angelo in Pontano",Chiuso,043048,60
+MARCHE,MC,Sarnano,Aperto,043049,20
+MARCHE,MC,Sarnano,Archiviato,043049,3
+MARCHE,MC,Sarnano,Chiuso,043049,209
+MARCHE,MC,Sefro,Aperto,043050,3
+MARCHE,MC,Sefro,Archiviato,043050,1
+MARCHE,MC,Sefro,Chiuso,043050,38
+MARCHE,MC,Serrapetrona,Aperto,043051,8
+MARCHE,MC,Serrapetrona,Archiviato,043051,6
+MARCHE,MC,Serrapetrona,Chiuso,043051,56
+MARCHE,MC,Serravalle di Chienti,Aperto,043052,8
+MARCHE,MC,Serravalle di Chienti,Archiviato,043052,1
+MARCHE,MC,Serravalle di Chienti,Chiuso,043052,62
+MARCHE,MC,Tolentino,Aperto,043053,38
+MARCHE,MC,Tolentino,Archiviato,043053,19
+MARCHE,MC,Tolentino,Chiuso,043053,390
+MARCHE,MC,Treia,Aperto,043054,16
+MARCHE,MC,Treia,Archiviato,043054,2
+MARCHE,MC,Treia,Chiuso,043054,101
+MARCHE,MC,Urbisaglia,Aperto,043055,5
+MARCHE,MC,Urbisaglia,Archiviato,043055,1
+MARCHE,MC,Urbisaglia,Chiuso,043055,24
+MARCHE,MC,Ussita,Aperto,043056,9
+MARCHE,MC,Ussita,Archiviato,043056,4
+MARCHE,MC,Ussita,Chiuso,043056,31
+MARCHE,MC,Valfornace,Aperto,043058,12
+MARCHE,MC,Valfornace,Archiviato,043058,10
+MARCHE,MC,Valfornace,Chiuso,043058,104
+MARCHE,MC,Visso,Aperto,043057,13
+MARCHE,MC,Visso,Archiviato,043057,5
+MARCHE,MC,Visso,Chiuso,043057,99
+MARCHE,PU,Cagli,Aperto,041007,1
+MARCHE,PU,Cagli,Chiuso,041007,4
+MARCHE,PU,Cantiano,Chiuso,041008,1
+MARCHE,PU,Mondavio,Chiuso,041028,1
+MARCHE,PU,Pergola,Aperto,041043,2
+MARCHE,PU,Pergola,Chiuso,041043,22
+MARCHE,PU,San Lorenzo in Campo,Aperto,041054,1
+MARCHE,PU,San Lorenzo in Campo,Chiuso,041054,2
+MARCHE,PU,"Serra Sant'Abbondio",Chiuso,041061,4
+UMBRIA,PG,Assisi,Aperto,054001,1
+UMBRIA,PG,Assisi,Chiuso,054001,6
+UMBRIA,PG,Bastia Umbra,Chiuso,054002,5
+UMBRIA,PG,Bettona,Chiuso,054003,5
+UMBRIA,PG,Bevagna,Aperto,054004,4
+UMBRIA,PG,Bevagna,Chiuso,054004,17
+UMBRIA,PG,Campello sul Clitunno,Aperto,054005,4
+UMBRIA,PG,Campello sul Clitunno,Chiuso,054005,20
+UMBRIA,PG,Cannara,Aperto,054006,2
+UMBRIA,PG,Cannara,Chiuso,054006,6
+UMBRIA,PG,Cascia,Aperto,054007,21
+UMBRIA,PG,Cascia,Chiuso,054007,269
+UMBRIA,PG,Castel Ritaldi,Aperto,054008,2
+UMBRIA,PG,Castel Ritaldi,Chiuso,054008,10
+UMBRIA,PG,Cerreto di Spoleto,Aperto,054010,5
+UMBRIA,PG,Cerreto di Spoleto,Chiuso,054010,38
+UMBRIA,PG,Collazzone,Aperto,054014,2
+UMBRIA,PG,Collazzone,Chiuso,054014,1
+UMBRIA,PG,Deruta,Chiuso,054017,7
+UMBRIA,PG,Foligno,Aperto,054018,13
+UMBRIA,PG,Foligno,Chiuso,054018,106
+UMBRIA,PG,Fossato di Vico,Aperto,054019,1
+UMBRIA,PG,Fossato di Vico,Chiuso,054019,5
+UMBRIA,PG,Fratta Todina,Chiuso,054020,4
+UMBRIA,PG,"Giano dell'Umbria",Chiuso,054021,4
+UMBRIA,PG,Gualdo Cattaneo,Aperto,054022,1
+UMBRIA,PG,Gualdo Cattaneo,Chiuso,054022,13
+UMBRIA,PG,Gualdo Tadino,Chiuso,054023,21
+UMBRIA,PG,Gubbio,Aperto,054024,1
+UMBRIA,PG,Gubbio,Chiuso,054024,19
+UMBRIA,PG,Gubbio,Rigettato,054024,1
+UMBRIA,PG,Marsciano,Aperto,054027,2
+UMBRIA,PG,Marsciano,Chiuso,054027,18
+UMBRIA,PG,Massa Martana,Aperto,054028,1
+UMBRIA,PG,Massa Martana,Chiuso,054028,4
+UMBRIA,PG,Monte Castello di Vibio,Chiuso,054029,5
+UMBRIA,PG,Montefalco,Aperto,054030,4
+UMBRIA,PG,Montefalco,Chiuso,054030,20
+UMBRIA,PG,Monteleone di Spoleto,Chiuso,054031,47
+UMBRIA,PG,Nocera Umbra,Chiuso,054034,5
+UMBRIA,PG,Norcia,Aperto,054035,57
+UMBRIA,PG,Norcia,Archiviato,054035,2
+UMBRIA,PG,Norcia,Chiuso,054035,675
+UMBRIA,PG,Norcia,Rigettato,054035,1
+UMBRIA,PG,Passignano sul Trasimeno,Chiuso,054038,1
+UMBRIA,PG,Perugia,Chiuso,054039,4
+UMBRIA,PG,Piegaro,Aperto,054040,1
+UMBRIA,PG,Poggiodomo,Aperto,054042,1
+UMBRIA,PG,Poggiodomo,Chiuso,054042,13
+UMBRIA,PG,Preci,Aperto,054043,7
+UMBRIA,PG,Preci,Chiuso,054043,88
+UMBRIA,PG,"Sant'Anatolia di Narco",Aperto,054045,1
+UMBRIA,PG,"Sant'Anatolia di Narco",Chiuso,054045,15
+UMBRIA,PG,Scheggia e Pascelupo,Chiuso,054046,5
+UMBRIA,PG,Scheggino,Aperto,054047,2
+UMBRIA,PG,Scheggino,Chiuso,054047,5
+UMBRIA,PG,Sellano,Aperto,054048,3
+UMBRIA,PG,Sellano,Chiuso,054048,49
+UMBRIA,PG,Spello,Aperto,054050,1
+UMBRIA,PG,Spello,Chiuso,054050,43
+UMBRIA,PG,Spoleto,Aperto,054051,76
+UMBRIA,PG,Spoleto,Chiuso,054051,295
+UMBRIA,PG,Todi,Aperto,054052,2
+UMBRIA,PG,Todi,Chiuso,054052,23
+UMBRIA,PG,Torgiano,Aperto,054053,1
+UMBRIA,PG,Trevi,Aperto,054054,3
+UMBRIA,PG,Trevi,Chiuso,054054,15
+UMBRIA,PG,Valfabbrica,Chiuso,054057,4
+UMBRIA,PG,Vallo di Nera,Chiuso,054058,7
+UMBRIA,PG,Valtopina,Chiuso,054059,2
+UMBRIA,TR,Acquasparta,Chiuso,055001,5
+UMBRIA,TR,Alviano,Chiuso,055003,1
+UMBRIA,TR,Amelia,Aperto,055004,1
+UMBRIA,TR,Amelia,Chiuso,055004,10
+UMBRIA,TR,Arrone,Aperto,055005,1
+UMBRIA,TR,Arrone,Chiuso,055005,18
+UMBRIA,TR,Avigliano Umbro,Aperto,055033,1
+UMBRIA,TR,Avigliano Umbro,Chiuso,055033,9
+UMBRIA,TR,Baschi,Chiuso,055007,1
+UMBRIA,TR,"Calvi dell'Umbria",Chiuso,055008,2
+UMBRIA,TR,Ferentillo,Chiuso,055012,22
+UMBRIA,TR,Giove,Chiuso,055014,2
+UMBRIA,TR,Montecastrilli,Chiuso,055017,5
+UMBRIA,TR,Montecchio,Chiuso,055018,1
+UMBRIA,TR,Montefranco,Aperto,055019,1
+UMBRIA,TR,Montefranco,Chiuso,055019,9
+UMBRIA,TR,Narni,Aperto,055022,1
+UMBRIA,TR,Narni,Chiuso,055022,8
+UMBRIA,TR,Otricoli,Chiuso,055024,1
+UMBRIA,TR,San Venanzo,Chiuso,055030,4
+UMBRIA,TR,Stroncone,Aperto,055031,1
+UMBRIA,TR,Terni,Chiuso,055032,19
