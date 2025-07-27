@@ -9,6 +9,7 @@ Zone.Identifier
 *.log
 *~
 .#*
+.~lock*
 
 # Ignora la cartella di configurazione di Gemini
 /.gemini/
