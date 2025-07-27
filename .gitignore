@@ -10,9 +10,5 @@ Zone.Identifier
 *~
 .#*
 
-# Ignora tutti i contenuti delle cartelle interim e processed a qualsiasi livello
-**/data/interim/**
-**/data/processed/**
-
 # Ignora la cartella di configurazione di Gemini
 /.gemini/
