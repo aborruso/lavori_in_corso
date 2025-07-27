@@ -1,0 +1,12 @@
+# Ignora i metadati di sicurezza di Windows
+Zone.Identifier
+
+# Ignora i file temporanei e di configurazione comuni
+.DS_Store
+.env
+.vscode/
+*.log
+
+# Ignora le cartelle dei dati elaborate o intermedie se non devono essere versionate
+data/interim/
+data/processed/
