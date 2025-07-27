@@ -11,5 +11,8 @@ Zone.Identifier
 .#*
 .~lock*
 
+# Ignora tutti i contenuti delle cartelle interim a qualsiasi livello
+**/data/interim/
+
 # Ignora la cartella di configurazione di Gemini
 /.gemini/
