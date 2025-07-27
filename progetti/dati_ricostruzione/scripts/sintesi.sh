@@ -19,13 +19,14 @@ duckdb --csv -c "
 SELECT
     regione,
     provincia,
-    comune,
+    comune_istat,
+    pro_com_t,
     SUM(importo_richiesto) AS totale_richiesto,
     SUM(importo_concesso) AS totale_concesso,
     SUM(GREATEST(importo_liquidato, 0)) AS totale_liquidato
 FROM read_csv('$processed_dir/privata.csv', sample_size=-1)
-GROUP BY regione, provincia, comune
-ORDER BY regione, provincia, comune;
+GROUP BY regione, provincia, comune_istat, pro_com_t
+ORDER BY regione, provincia, comune_istat;
 " > "$processed_dir"/spesa_totale_per_unita_amministrativa.csv
 
 # 2. Spesa Pro Capite per Comune
@@ -34,15 +35,16 @@ duckdb --csv -c "
 SELECT
     regione,
     provincia,
-    comune,
+    comune_istat,
     popolazione_residente,
+    pro_com_t,
     SUM(importo_richiesto) / popolazione_residente AS richiesto_pro_capite,
     SUM(importo_concesso) / popolazione_residente AS concesso_pro_capite,
     SUM(GREATEST(importo_liquidato, 0)) / popolazione_residente AS liquidato_pro_capite
 FROM read_csv('$processed_dir/privata.csv', sample_size=-1)
-GROUP BY regione, provincia, comune, popolazione_residente
+GROUP BY regione, provincia, comune_istat, popolazione_residente, pro_com_t
 HAVING popolazione_residente > 0
-ORDER BY regione, provincia, comune;
+ORDER BY regione, provincia, comune_istat;
 " > "$processed_dir"/spesa_pro_capite_per_comune.csv
 
 # 3. Spesa per Chilometro Quadrato per Comune
@@ -51,15 +53,16 @@ duckdb --csv -c "
 SELECT
     regione,
     provincia,
-    comune,
+    comune_istat,
     area_kmq,
+    pro_com_t,
     SUM(importo_richiesto) / area_kmq AS richiesto_per_kmq,
     SUM(importo_concesso) / area_kmq AS concesso_per_kmq,
     SUM(GREATEST(importo_liquidato, 0)) / area_kmq AS liquidato_per_kmq
 FROM read_csv('$processed_dir/privata.csv', sample_size=-1)
-GROUP BY regione, provincia, comune, area_kmq
+GROUP BY regione, provincia, comune_istat, area_kmq, pro_com_t
 HAVING area_kmq > 0
-ORDER BY regione, provincia, comune;
+ORDER BY regione, provincia, comune_istat;
 " > "$processed_dir"/spesa_per_kmq_per_comune.csv
 
 # 4. Spesa Media per Tipologia di Intervento
@@ -81,12 +84,13 @@ duckdb --csv -c "
 SELECT
     regione,
     provincia,
-    comune,
+    comune_istat,
     stato,
+    pro_com_t,
     COUNT(*) AS numero_interventi
 FROM read_csv('$processed_dir/privata.csv', sample_size=-1)
-GROUP BY regione, provincia, comune, stato
-ORDER BY regione, provincia, comune, stato;
+GROUP BY regione, provincia, comune_istat, stato, pro_com_t
+ORDER BY regione, provincia, comune_istat, stato;
 " > "$processed_dir"/distribuzione_stati_interventi_per_comune.csv
 
 # 6. Impatto del Superbonus sulla Spesa Totale
