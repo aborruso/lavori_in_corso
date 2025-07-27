@@ -8,5 +8,8 @@ Zone.Identifier
 *.log
 
 # Ignora le cartelle dei dati elaborate o intermedie se non devono essere versionate
-data/interim/
-data/processed/
+**/data/interim/
+**/data/processed/
+
+# Ignora la cartella di configurazione di Gemini
+/.gemini/
