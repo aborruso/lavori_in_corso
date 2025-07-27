@@ -37,3 +37,28 @@ find "$folder"/../data/raw -type f -iname "*privata*.xlsx" | while read -r file;
     done
 done
 
+# merge dei file CSV in un unico file
+
+mlr --csv unsparsify "$folder"/../data/interim/privata/*.csv > "$folder"/../data/interim/privata.csv
+
+sed -i 's/null//gI' "$folder"/../data/interim/privata.csv
+
+duckdb --csv -c "
+SELECT
+  *
+  REPLACE (
+    numero_fascicolo::VARCHAR AS numero_fascicolo,
+    CASE
+      WHEN regione = '11' THEN 'MARCHE'
+      ELSE regione
+    END AS regione
+  )
+FROM read_csv(
+  '$folder/../data/interim/privata.csv',
+  sample_size = -1
+);" > "$folder"/../data/interim/tmp.csv
+
+mv "$folder"/../data/interim/tmp.csv "$folder"/../data/interim/privata.csv
+
+sed -i 's/null//gI' "$folder"/../data/interim/privata.csv
+

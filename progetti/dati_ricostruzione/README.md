@@ -9,6 +9,6 @@ Questo progetto si occupa della ricostruzione e dell'elaborazione di dati specif
 - `scripts/`: Script per l'elaborazione dei dati.
 - `notebooks/`: Notebook Quarto per analisi e visualizzazioni.
 
-## Come Usare
+## Note file RAW
 
-[Aggiungere istruzioni specifiche per l'esecuzione di questo POC]
+- la colonna regione per le Marche contiene il valore `11` e non `MARCHE` come le altre regioni
