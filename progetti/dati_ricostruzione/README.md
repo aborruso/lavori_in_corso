@@ -18,7 +18,7 @@ Questo progetto si occupa della ricostruzione e dell'elaborazione di dati specif
 
 Lo script `sintesi.sh` genera i seguenti file CSV nella cartella `data/processed/`:
 
-- [`spesa_totale_per_unita_amministrativa.csv`](data/processed/spesa_totale_per_unita_amministrativa.csv): contiene la somma degli importi richiesti, concessi e liquidati per regione, provincia e comune ISTAT.
+- [`spesa_totale_per_unita_amministrativa.csv`](data/processed/spesa_totale_per_unita_amministrativa.csv): contiene la somma degli importi richiesti, concessi e liquidati per ciascun comune ISTAT, con dettaglio per regione e provincia.
 - [`spesa_pro_capite_per_comune.csv`](data/processed/spesa_pro_capite_per_comune.csv): contiene la spesa per abitante per comune ISTAT, basandosi sulla popolazione residente.
 - [`spesa_per_kmq_per_comune.csv`](data/processed/spesa_per_kmq_per_comune.csv): contiene la spesa per chilometro quadrato per comune ISTAT, basandosi sull'area geografica.
 - [`spesa_media_per_tipologia_intervento.csv`](data/processed/spesa_media_per_tipologia_intervento.csv): contiene la spesa media per le diverse tipologie di intervento.
