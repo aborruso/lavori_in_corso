@@ -1,2 +1,22 @@
+# Note
+
+## Sigle
+
 OC Ordinanza Commissariale
 OS Ordinanza Straordinaria
+
+## Nomi geografici
+
+### Pubblica
+
+```json
+{"comune":"Popoli","comune_corretto":"Popoli Terme","prov":"PE"}
+{"comune":"Ancarano","comune_corretto":"Ancarano","prov":"TE"}
+{"comune":"Silvi Marina","comune_corretto":"Silvi","prov":"TE"}
+{"comune":"Guardea","comune_corretto":"Guardea","prov":"TR"}
+{"comune":"Capitignano","comune_corretto":"Capitignano","prov":"AQ"}
+{"comune":"Valtopina","comune_corretto":"Valtopina","prov":"PG"}
+{"comune":"Umbertide","comune_corretto":"Umbertide","prov":"PG"}
+{"comune":"Giove","comune_corretto":"Giove","prov":"TR"}
+{"comune":"Sarnano","comune_corretto":"Sarnano","prov":"TR"}
+```
