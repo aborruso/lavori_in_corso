@@ -56,7 +56,7 @@ SELECT
   )
 FROM read_csv(
   '$folder/../data/interim/privata.csv',
-  sample_size = -1
+  sample_size = -1,all_varchar=true
 );" > "$folder"/../data/interim/tmp.csv
 
 mv "$folder"/../data/interim/tmp.csv "$folder"/../data/interim/privata.csv
@@ -66,6 +66,7 @@ sed -i 's/null//gI' "$folder"/../data/interim/privata.csv
 
 # Correzione specifica di un nome comune
 sed -i 's/PIEVEBOVIGLIANA/Valfornace/gI' "$folder"/../data/interim/privata.csv
+
 
 # Estrazione e normalizzazione dei nomi geografici unici dal file privata.csv
 mlr --csv --from "$folder"/../data/interim/privata.csv cut -o -f provincia,comune then put '$provincia=toupper($provincia);$comune=toupper($comune)' then uniq -a > "$folder"/../data/interim/nomi_geografici.csv
@@ -87,3 +88,11 @@ mlr -I --csv put '$comune=toupper($comune)' "$folder"/../data/interim/privata.cs
 
 # Unione dei dati privati con le informazioni geografiche ISTAT (output finale)
 mlr --csv join --ul -j provincia,comune -f "$folder"/../data/interim/privata.csv then unsparsify "$folder"/../data/interim/nomi_geografici_match.csv > "$folder"/../data/processed/privata.csv
+
+mlr -I --csv -S --from "$folder"/../data/processed/privata.csv cut -x -f comune_istat,intestatario,pivacf,ragione_sociale_soggetto_intestatario then sub -f cup "^0$" "" then clean-whitespace then put '
+  if (is_null($cup)) {
+    $url_opencup = $cup
+  } else {
+    $url_opencup = "https://www.opencup.gov.it/portale/it/web/opencup/home/progetto/-/cup/".$cup
+  }
+'
