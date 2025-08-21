@@ -16,3 +16,4 @@ Zone.Identifier
 
 # Ignora la cartella di configurazione di Gemini
 /.gemini/
+.aider*
