@@ -67,7 +67,6 @@ sed -i 's/null//gI' "$folder"/../data/interim/privata.csv
 # Correzione specifica di un nome comune
 sed -i 's/PIEVEBOVIGLIANA/Valfornace/gI' "$folder"/../data/interim/privata.csv
 
-
 # Estrazione e normalizzazione dei nomi geografici unici dal file privata.csv
 mlr --csv --from "$folder"/../data/interim/privata.csv cut -o -f provincia,comune then put '$provincia=toupper($provincia);$comune=toupper($comune)' then uniq -a > "$folder"/../data/interim/nomi_geografici.csv
 
